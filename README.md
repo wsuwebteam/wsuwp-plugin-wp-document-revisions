@@ -1,0 +1,1 @@
+# wsuwp-plugin-wp-document-revisions
